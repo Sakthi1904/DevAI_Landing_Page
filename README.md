@@ -69,17 +69,7 @@ earth/
 ### Installation
 1. Clone or download the project files
 2. Open `index.html` in your web browser
-3. For development, use a local server:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx serve .
-   
-   # Using PHP
-   php -S localhost:8000
-   ```
+
 
 ## 📱 Responsive Breakpoints
 
