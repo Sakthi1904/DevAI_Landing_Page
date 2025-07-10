@@ -172,29 +172,6 @@ Update the HTML content in `index.html` to match your product:
 - **Debounced Events**: Optimized scroll and resize handlers
 - **CSS Transforms**: Hardware-accelerated animations
 
-## 🌟 Browser Support
 
-- **Chrome**: 60+
-- **Firefox**: 55+
-- **Safari**: 12+
-- **Edge**: 79+
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📞 Support
-
-For questions or support, please open an issue in the repository.
-
----
 
 **Built with ❤️ for the future of AI-powered development** 
